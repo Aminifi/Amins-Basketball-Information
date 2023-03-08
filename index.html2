@@ -1,6 +1,6 @@
 
 <ht<ml>
-<title>Amin's Basketball Information</title>
+<title>rules</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<style>
@@ -52,12 +52,37 @@
 </head>
 <body>
 	<header>
-		<h1><b><font color="f0000">About</font color><font color="0000ff"> Me!</h1></font color></b>
+		<h1><b><font color="f0000">Basketball</font color><font color="0000ff">Rules!</h1></font color></b>
 	</header>
 	<nav>
-		<b><a href="#teams">Basketball</a></b>
-		<b><a href="#players">Infoduction</a></b>
-		<b><a href="#history">Education</a></b>
+		
+  <body>
+    <h1>Basketball Rules</h1>
+    <ol>
+      <li>There are two teams, each with five players on the court.</li>
+      <li>The game is played with a ball and two baskets, one at each end of the court.</li>
+      <li>The objective is to score points by shooting the ball through the opponent's basket while preventing the opponent from doing the same.</li>
+      <li>A player can move the ball by dribbling or passing it to a teammate.</li>
+      <li>A player cannot run with the ball, but can take up to two steps before dribbling or passing.</li>
+      <li>If a player violates a rule, such as traveling or double dribbling, the ball is turned over to the other team.</li>
+      <li>The game is divided into four quarters, each lasting 12 minutes at the professional level.</li>
+      <li>Players can foul each other to prevent them from scoring, but excessive or dangerous fouls can result in ejection from the game.</li>
+      <li>The team with the most points at the end of the game wins.</li>
+    </ol>
+  </body>
+</html>
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	</nav>
