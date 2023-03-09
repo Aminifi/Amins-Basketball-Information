@@ -13,7 +13,7 @@
 		
 		header {
 			background-color: #222;
-			color: #fff;
+			color: #000;
 			padding: 10px;
 			text-align: center;
 		}
@@ -52,7 +52,7 @@
 </head>
 <body>
 	<header>
-		<h1><b><font color="f0000">Basketball</font color><font color="0000ff">Rules!</h1></font color></b>
+		<h1><b><font color="f0000">Basketball</font color><font color="0000ff"> Rules</h1></font color></b>
 	</header>
 	<nav>
 		
@@ -70,6 +70,16 @@
       <li>The team with the most points at the end of the game wins.</li>
     </ol>
   </body>
+</nav>
+
+
+
+
+
+
+
+
+
 </html>
 
 	
@@ -85,4 +95,4 @@
 	
 	
 	
-	</nav>
+	
